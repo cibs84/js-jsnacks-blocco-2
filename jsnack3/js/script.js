@@ -24,6 +24,8 @@ console.log('Somma con ciclo FOR: ', sum);
 
 // -------- ESERCIZIO CON IL CICLO WHILE -------- 
 
+// Resetto la variabile 'sum' che contiene il valore elaborato nel precedente ciclo 'for'
+sum = 0;
 
 // Creo variabile da utilizzare nel ciclo while
 let j = 0;
